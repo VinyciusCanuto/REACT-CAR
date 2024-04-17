@@ -5,9 +5,24 @@ article{
     height: 400px;
     width: 400px;
     background-color: burlywood;
+    justify-content: space-evenly;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: aliceblue;
 }
 
 img{
-    width: 100px;
-    
+    width: 100px;   
+}
+
+.suv{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.sedan{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
 }
